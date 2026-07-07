@@ -1,8 +1,7 @@
 # RogueForge
 
 **Forged for Gamers. Built for Freedom.**
-
-Rogue Forge is an open-source gaming technology project focused on building software and, in the future, exploring hardware solutions for gamers.
+Rogue Forge is an open-source gaming technology project dedicated to building high-performance software for gamers and, in the future, exploring innovative hardware solutions. Built with a Linux-first mindset, we believe software should be open whenever possible while protecting the innovations needed to build a sustainable hardware company.
 
 ## Mission
 
