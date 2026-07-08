@@ -21,4 +21,5 @@ All notable changes to this project will be documented here.
 - Added CPU model detection
 - Added Steam detection
 - Added GameMode detection
+- Added GPU name detection
 - Project structure initialized
