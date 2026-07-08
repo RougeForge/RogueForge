@@ -11,3 +11,11 @@ All notable changes to this project will be documented here.
 - Vision statement
 - Roadmap
 - Open-source license
+
+## v0.1.1 - 2026-07-08
+
+### Added
+
+- Created the first working version of rfetch
+- Added Linux distribution detection
+- Project structure initialized
