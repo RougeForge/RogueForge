@@ -18,4 +18,7 @@ All notable changes to this project will be documented here.
 
 - Created the first working version of rfetch
 - Added Linux distribution detection
+- Added CPU model detection
+- Added Steam detection
+- Added GameMode detection
 - Project structure initialized
